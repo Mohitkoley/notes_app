@@ -1,2 +1,3 @@
 # notes_app
-notes app with null saftey
+notes app with null saftey made in flutter
+
